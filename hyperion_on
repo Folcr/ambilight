@@ -1,0 +1,4 @@
+#!/bin/sh
+sudo systemctl start hyperion
+sleep 2
+hyperion-remote --on
