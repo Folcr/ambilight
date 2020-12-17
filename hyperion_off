@@ -1,0 +1,3 @@
+#!/bin/sh
+hyperion-remote --color black
+hyperion-remote --off
